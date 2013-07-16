@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'DTCoreTextTheo'
-  spec.version      = '1.6.1'
+  spec.version      = '1.6.1ascendermod1'
   spec.platform     = :ios, '4.3'
   spec.license      = 'BSD'
   spec.source       = { :git => 'https://github.com/TheoA/DTCoreText.git', :tag => spec.version.to_s }

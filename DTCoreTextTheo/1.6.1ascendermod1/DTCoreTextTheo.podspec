@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version      = '1.6.1ascendermod1'
   spec.platform     = :ios, '4.3'
   spec.license      = 'BSD'
-  spec.source       = { :git => 'https://github.com/TheoA/DTCoreText.git', :tag => spec.version.to_s, :branch => TheoPodspec }
+  spec.source       = { :git => 'https://github.com/TheoA/DTCoreText.git', :tag => spec.version.to_s, :branch => 'TheoPodspec' }
   spec.source_files = 'Core/Source/*.{h,m,c}'
   spec.dependency 'DTFoundation/Core', '~>1.4.3'
   spec.dependency 'DTFoundation/UIKit', '~>1.4.3'
